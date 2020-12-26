@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-main(List<String> args) {
+main() {
   runApp(MyApp());
 }
 
@@ -22,22 +22,6 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text("BNANTO"),
-        centerTitle: true,
-        backgroundColor: Colors.red,
-        elevation: 0.0,
-      ),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Text("first text"),
-            Text("second text"),
-            Text("third text"),
-          ],
-        ),
-      ),
     );
     
   }

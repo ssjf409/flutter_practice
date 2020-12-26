@@ -3,14 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="0bf540d7-9a76-488f-8780-7a19a8273239" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../third/flutter_application_1/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../third/flutter_application_1/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../third/flutter_application_1/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../third/flutter_application_1/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_application_1/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_application_1/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3_API_30]" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -27,9 +27,21 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../flutter/bin/cache/dart-sdk" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_application_1/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,10 +57,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1201" y="278" key="FileChooserDialogImpl" timestamp="1608961275633">
+    <state x="1053" y="100" width="774" height="840" key="AVDManager" timestamp="1609004400168">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1201" y="278" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608961275633" />
+    <state x="1053" y="100" width="774" height="840" key="AVDManager/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1609004400168" />
+    <state x="1201" y="278" key="FileChooserDialogImpl" timestamp="1609005021947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1201" y="278" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1609005021947" />
+    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1609005085310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1609005085310" />
+    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1609005085309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1609005085309" />
+    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1609005085309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1609005085309" />
+    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1609005085310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1609005085310" />
     <state x="922" y="313" key="SettingsEditor" timestamp="1608988562331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
