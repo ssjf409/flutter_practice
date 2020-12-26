@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bf540d7-9a76-488f-8780-7a19a8273239" name="Default Changelist" comment="" />
+    <list default="true" id="0bf540d7-9a76-488f-8780-7a19a8273239" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third/flutter_application_1/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../third/flutter_application_1/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third/flutter_application_1/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../third/flutter_application_1/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1mBJc5IoUc1vB0L1GjbAjSH6m4v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,10 +49,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1201" y="278" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608961275633" />
-    <state x="922" y="168" key="SettingsEditor" timestamp="1608961385239">
+    <state x="922" y="313" key="SettingsEditor" timestamp="1608988562331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="168" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608961385239" />
+    <state x="922" y="313" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608988562331" />
     <state x="1148" y="121" width="584" height="804" key="find.popup" timestamp="1608961339425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
